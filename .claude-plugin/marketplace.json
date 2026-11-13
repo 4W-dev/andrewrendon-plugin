@@ -1,0 +1,12 @@
+{
+  "name": "andrewrendon",
+  "owner": { "name": "Andrew Rendon", "url": "https://andrewrendon.com" },
+  "metadata": { "description": "The plugin Andrew Rendon installs for the businesses he works with." },
+  "plugins": [
+    {
+      "name": "andrewrendon",
+      "source": "./plugins/andrewrendon",
+      "description": "The setup Andrew Rendon makes for your business."
+    }
+  ]
+}

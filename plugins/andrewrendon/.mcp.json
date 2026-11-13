@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "andrewrendon": {
+      "type": "http",
+      "url": "https://kit.andrewrendon.com/mcp"
+    }
+  }
+}

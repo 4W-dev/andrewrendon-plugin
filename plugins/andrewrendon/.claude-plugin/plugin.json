@@ -1,0 +1,12 @@
+{
+  "name": "andrewrendon",
+  "displayName": "Andrew Rendon",
+  "version": "1.2.0",
+  "description": "The setup Andrew Rendon makes for your business: Claude learns your business and writes its company brain into your own account, knows it before writing anything for you, runs the jobs he set up as drafts for you to send, keeps your corrections, and tells him when something breaks.",
+  "author": {
+    "name": "Andrew Rendon",
+    "url": "https://andrewrendon.com"
+  },
+  "homepage": "https://andrewrendon.com",
+  "license": "MIT"
+}
