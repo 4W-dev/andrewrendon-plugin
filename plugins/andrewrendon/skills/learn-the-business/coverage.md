@@ -12,7 +12,7 @@ What the business does, where, for whom, how customers reach it, and how a job o
 - when it works: days, hours, seasons, busy and slow times
 - how many people and how the work is split (crews, teams, chairs, departments)
 - how customers find the business and reach it: calls, texts, email, walk-ins, website, booking page, referrals
-- how a first contact becomes paid work, step by step: enquiry, quote, proposal or booking, the work, invoice or checkout
+- the business end to end, stage by stage: how a lead arrives, the sale, onboarding, the work, invoicing, and support after; for each stage, who does it and in which tool
 - work that repeats on a schedule: weekly, monthly, seasonal, yearly
 - how often and when invoices go out, if the business invoices
 
